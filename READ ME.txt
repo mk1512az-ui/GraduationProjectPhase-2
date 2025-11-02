@@ -1,0 +1,2 @@
+to make the server run type this in the terminal for within the server file: npm run dev
+to make the client run type this in the terminal for within the client file: npm start
